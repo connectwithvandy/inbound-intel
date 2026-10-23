@@ -1,0 +1,6 @@
+Lead Name,Company,Title & Persona,Company Size,Region,Lead Type,Verdict,Current Stack,Trigger / News,Hook,Confidence,Sources
+Asha Menon,Northwind Health,IT Manager (owns tooling decision),120,APAC,Direct,QUALIFY,Kandji; Google Workspace; mixed Mac and Windows,SOC 2 Type II push (job post),Apple only tool cannot cover Windows machines during the audit,High,https://northwind-health.example/careers
+Tomas Berg,Fjordline Logistics,Head of IT (decision maker),340,EMEA,Direct,QUALIFY,Microsoft Entra ID; Intune; Okta,Opened two new warehouses (news),Two identity tools across new sites doubles the onboarding work,Medium,https://fjordline.example/news
+Priyanka Rao,Brightdesk IT Services,Founder (MSP owner),25,APAC,MSP,QUALIFY,Manages 40 client tenants; several RMM tools,Hiring two technicians (job post),Growing client count with tools that do not share one console,Medium,https://brightdesk.example/jobs
+Leo Hart,Hart & Sons Bakery,Owner,8,EMEA,Direct,NURTURE,Google Workspace only,None found,Too small today; revisit if they grow,Low,https://hartbakery.example
+Sam Okafor,Student,Not applicable,0,EMEA,Direct,REJECT,None,None,Student signup for a course project,High,form field: company = university
